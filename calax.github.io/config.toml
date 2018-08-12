@@ -4,19 +4,20 @@ theme = "dimension"
 
 
 [params]
-  logo = "fa-diamond"
-  copyright = "Untitled"
+    logo = "fa-diamond"
+    copyright = "Untitled"
+    heroimage = "/images/MeSunset.jpg"
 
 
 [languages]
 [languages.en]
-title = "Alexander Yugov"
-languageName = "English"
-weight = 1
-description = 'Hi! I&apos;m Alexander Yugov'
+    title = "Alexander Yugov"
+    languageName = "English"
+    weight = 1
+    description = 'Hi! I&apos;m Alexander Yugov'
 
 [languages.ru]
-languageName = "Русский"
-weight = 2
-title = "Югов Александр"
-description = 'ХОТИТЕ УЗНАТЬ ОБО МНЕ БОЛЬШЕ?<br/>ЗАХОДИТЕ ПОЧАЩЕ, СКОРО УЗНАЕТЕ'
+    languageName = "Русский"
+    weight = 2
+    title = "Югов Александр"
+    description = 'ХОТИТЕ УЗНАТЬ ОБО МНЕ БОЛЬШЕ?<br/>ЗАХОДИТЕ ПОЧАЩЕ, СКОРО УЗНАЕТЕ'
