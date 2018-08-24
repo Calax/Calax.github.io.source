@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Югов Александр</title>
+    <link>http://example.org/ru/</link>
+    <description>Recent content on Югов Александр</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CV</title>
+      <link>http://example.org/ru/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/ru/cv/</guid>
+      <description>Москва (Россия)
++7 985 8910218
+caxayou@yandex.ru
+Skype: caxa.yugov
+Пол Мужской Дата рождения 30.05.1992         Январь 2018 — по настоящее время   Ведущий специалист по разработке ПО        Plazius, Москва    С приходом в Plazius занимался переработкой (по факту, переписываем с нуля) базы гостей - самого нагруженного и самого популярного раздела портала клиента, в котором рестораторы могут посмотреть гостей, увидеть, что те любят заказывать, сколько и на что тратить, отправить рассылки и т.</description>
+    </item>
+    
+  </channel>
+</rss>
