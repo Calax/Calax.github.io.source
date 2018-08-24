@@ -1,5 +1,5 @@
 +++
-title = "CV"
+title = "Резюме"
 weight = 20
 draft = false
 +++
