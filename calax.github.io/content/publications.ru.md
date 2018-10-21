@@ -1,7 +1,7 @@
 +++
 title = "Научные публикации"
 weight = 20
-draft = false
+draft = true
 +++
 
 <div class="table-wrapper">
