@@ -21,8 +21,8 @@
 #########################################################
 
 languageCode = "en-us"
-title = "Example Site"
-baseurl = "https://example.com/"
+title = "Alexander Yugov's"
+baseurl = "https://calax.github.io"
 theme = "Midnight"
 
 ## Allow the use of GitHub-style code fences
@@ -42,7 +42,7 @@ enableRobotsTXT = true
 [params]
     ## Tagline of your site. Displays in the header,
     ## just below the title
-    tagline = "Using the Midnight theme"
+    tagline = "blog around software engineering"
 
     ## Description of your site - for use in SEO
     description = "A useful description for search engine results"
@@ -51,7 +51,7 @@ enableRobotsTXT = true
     ## 'author' is the name of the default author of all pages (can change per page).
     ## See also: https://bluestnight.com/docs/midnight/users/pages/authorbox/
     #authorbox = false
-    #author = "Some Guy"
+    author = "Alexander Yugov"
 
     ## Optimize site for HTTP/2. Recommended if your server supports it.
     http2 = true
@@ -68,13 +68,7 @@ enableRobotsTXT = true
 
     ## Disable the use of minified JavaScript and CSS
     ## Useful only for debugging purposes
-    #no_minimize = true
-
-    ## Set a site-wide notice for all visitors to all pages.
-    alert = """
-Interested in using Midnight? Check out the [getting started](https://bluestnight.com/guides/midnight/getting-started/)
-guide and the [user documentation](https://bluestnight.com/docs/midnight/users/) for more information.
-    """
+    no_minimize = true
 
 ## Midnight can integrate custom shortcodes into the theme. For more
 ## about this, see https://bluestnight.com/docs/midnight/developers/
@@ -180,8 +174,8 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
 ## For author-specific social icons that appear in the authorbox,
 ## see https://bluestnight.com/docs/midnight/users/shortcodes/members/#social-links
 ## See also: https://bluestnight.com/docs/midnight/users/site/social-icons/
-[params.social]
-    gitlab = "BluestNight/Midnight"
+##[params.social]
+##    gitlab = "BluestNight/Midnight"
 
 ## Options used while generating server configuration files.
 ## See https://bluestnight.com/docs/midnight/users/server/ for more.
